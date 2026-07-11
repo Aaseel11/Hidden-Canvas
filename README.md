@@ -1,44 +1,48 @@
+ Hidden Canvas
 
-Hidden Canvas 
-Browser drawing tablet (HTML5 Canvas + JS) . Pen, shapes, HEX/RGB/HSL colors, undo/redo, PNG/PDF export, responsive
+Browser drawing tablet (HTML5 Canvas + JS). Pen, shapes, HEX/RGB/HSL colors, undo/redo, PNG/PDF export, responsive.
 
-Live Demo: https://aaseel11.github.io/Hidden-Canvas/
+Live Demo:
+https://aaseel11.github.io/Hidden-Canvas/ (https://aaseel11.github.io/Hidden-Canvas/)
 
 
- Features: 
-- Adjustable size pen for free hand drawing
-– Geometrical figures: triangle, circle, rectangle
+Features
+
+- Adjustable size pen for freehand drawing
+- Geometrical figures: triangle, circle, rectangle
 - Auto shape fill toggle (outline or filled)
 - Three formats to select your color from: HEX, RGB and HSL
 - Adjustable pen and shape size (1px - 50px)
-- Undo and Redo facilities
+- Undo and redo facilities
 - Eraser
-- Clean sheet
+- Clear canvas
 - Toggle light/dark mode
-- Adaptive design 
-- Save Drawings As:
-- PNG image-PDF document
+- Adaptive design
+- Save drawings as:
+  - PNG image
+  - PDF document
 
- Tools and Technologies
+Tools and Technologies
+
 - Canvas API (HTML5)
 - CSS3 (custom properties for themes, responsive design)
 - Plain JavaScript
---Using [jsPDF](https://github.com/parallax/jsPDF) to export to pdf
+- Using [jsPDF](https://github.com/parallax/jsPDF) to export to PDF
 
-How to Use
+ How to Use
+
 1. Choose a tool from the toolbar (pencil, rectangle, triangle, circle, eraser)
 2. Select a color and brush size
 3. Draw on canvas directly with mouse or finger
-4. Switch fill mode to switch between filled and outline shapes
+4. Switch fill mode to toggle between filled and outline shapes
 5. Use undo/redo to manage changes
 6. Export your artwork as a .png or .pdf
 
-Author:
+ Author
+
 Aseel Alanzi
-
 GitHub (https://github.com/Aaseel11) 
+LinkedIn (https://www.linkedin.com/in/aseel-alanazi410)
 
-Linkedin (www.linkedin.com/in/aseel-alanazi410)
-
-License 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
