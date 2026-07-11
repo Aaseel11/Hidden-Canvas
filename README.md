@@ -2,6 +2,8 @@ Hidden Canvas
 Browser drawing tablet (HTML5 Canvas + JS) . Pen, shapes, HEX/RGB/HSL colors, undo/redo, PNG/PDF export, responsive
 
 Live Demo: https://aaseel11.github.io/Hidden-Canvas/
+
+
  Features: 
 - Adjustable size pen for free hand drawing
 – Geometrical figures: triangle, circle, rectangle
@@ -32,7 +34,9 @@ How to Use
 
 Author:
 Aseel Alanzi
+
 GitHub (https://github.com/Aaseel11) 
+
 Linkedin (www.linkedin.com/in/aseel-alanazi410)
 
 License 
