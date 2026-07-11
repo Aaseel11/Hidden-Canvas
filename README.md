@@ -41,7 +41,9 @@ Tools and Technologies
  Author
 
 Aseel Alanzi
+
 GitHub (https://github.com/Aaseel11) 
+
 LinkedIn (https://www.linkedin.com/in/aseel-alanazi410)
 
 License
