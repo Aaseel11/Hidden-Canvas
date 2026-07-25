@@ -1,50 +1,56 @@
- Hidden Canvas
+# Hidden Canvas
 
-Browser drawing tablet (HTML5 Canvas + JS). Pen, shapes, HEX/RGB/HSL colors, undo/redo, PNG/PDF export, responsive.
+A drawing tablet for browsers, based on an HTML5 Canvas + vanilla JS. Draw freehand with pen or shapes (rectangle, circle, triangle). Select colors in HEX, RGB or HSL. Change size from 1 to 50px. Fill on/off. Undo/redo. Clear canvas. Export to PNG or PDF. Responsive, light/dark themes and touch support.
 
-Live Demo:
-https://aaseel11.github.io/Hidden-Canvas/ 
+**Live Demo:** https://aaseel11.github.io/Hidden-Canvas/
 
+> **All project files, documentation, and resources are included in this repository.**
 
-Features
+## Features
 
-- Adjustable size pen for freehand drawing
-- Geometrical figures: triangle, circle, rectangle
-- Auto shape fill toggle (outline or filled)
-- Three formats to select your color from: HEX, RGB and HSL
-- Adjustable pen and shape size (1px - 50px)
-- Undo and redo facilities
-- Eraser
-- Clear canvas
-- Toggle light/dark mode
-- Adaptive design
-- Save drawings as:
+✓ Adjustable size pen for freehand drawing  
+✓ Geometrical figures: triangle, circle, rectangle  
+✓ Auto shape fill toggle (outline or filled)  
+✓ Three formats to select your color from: HEX, RGB and HSL  
+✓ Adjustable pen and shape size (1px - 50px)  
+✓ Undo and redo facilities  
+✓ Eraser  
+✓ Clear canvas  
+✓ Toggle light/dark mode  
+✓ Adaptive design  
+✓ Save drawings as:
   - PNG image
   - PDF document
+✓ Touch support for mobile devices  
 
-Tools and Technologies
+## Tools and Technologies
 
-- Canvas API (HTML5)
-- CSS3 (custom properties for themes, responsive design)
-- Plain JavaScript
-- Using [jsPDF](https://github.com/parallax/jsPDF) to export to PDF
+- **Canvas API** (HTML5)
+- **CSS3** — custom properties for themes, responsive design
+- **Plain JavaScript** — vanilla JS (no frameworks)
+- **jsPDF** — PDF export library
 
- How to Use
+### Language Composition
+
+- JavaScript — 44.7%
+- CSS — 40.7%
+- HTML — 14.6%
+
+## How to Use
 
 1. Choose a tool from the toolbar (pencil, rectangle, triangle, circle, eraser)
 2. Select a color and brush size
 3. Draw on canvas directly with mouse or finger
 4. Switch fill mode to toggle between filled and outline shapes
 5. Use undo/redo to manage changes
-6. Export your artwork as a .png or .pdf
+6. Export your artwork as a `.png` or `.pdf`
 
- Author
+## Author
 
-Aseel Alanzi
+**Aseel Alanzi**
 
-GitHub (https://github.com/Aaseel11) 
+[GitHub](https://github.com/Aaseel11) • [LinkedIn](https://www.linkedin.com/in/aseel-alanazi410)
 
-LinkedIn (https://www.linkedin.com/in/aseel-alanazi410)
+## License
 
-License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
