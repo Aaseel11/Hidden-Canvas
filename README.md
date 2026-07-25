@@ -30,11 +30,6 @@ A drawing tablet for browsers, based on an HTML5 Canvas + vanilla JS. Draw freeh
 - **Plain JavaScript** — vanilla JS (no frameworks)
 - **jsPDF** — PDF export library
 
-### Language Composition
-
-- JavaScript — 44.7%
-- CSS — 40.7%
-- HTML — 14.6%
 
 ## How to Use
 
