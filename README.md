@@ -42,7 +42,7 @@ A drawing tablet for browsers, based on an HTML5 Canvas + vanilla JS. Draw freeh
 
 ## Author
 
-**Aseel Alanzi**
+**Aseel Alanazi**
 
 [GitHub](https://github.com/Aaseel11) • [LinkedIn](https://www.linkedin.com/in/aseel-alanazi410)
 
